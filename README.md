@@ -1,5 +1,30 @@
 ### Hi there 👋
 
+I'm damned or dmnd for short. 
+
+⚡ I'm CTF player with the `dcode-us` team (with @LukeGix)
+
+🌱 I'm studying security of computer systems and networks
+
+🔭 I'm working with a swedish startup as a security specialist
+
+✨ Main objectives :
+- Learn how kernel works in details
+- Deepen my pentest / appsec skills
+- Develop my personal landing page
+
+✍ Languages I've worked with
+- C/C++
+- Python
+- C#
+- Java
+- JavaScript
+- PHP
+
+💻 Environments I work on
+- Windows 10
+- Linux
+
 <!--
 **damned-me/damned-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

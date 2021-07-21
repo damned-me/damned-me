@@ -8,11 +8,6 @@ I'm damned or dmnd for short.
 
 🔭 I'm working with a swedish startup as a security specialist
 
-✨ Main objectives :
-- Learn how kernel works in details
-- Deepen my pentest / appsec skills
-- Develop my personal landing page
-
 ✍ Languages I've worked with
 - C/C++
 - Python

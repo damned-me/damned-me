@@ -17,7 +17,7 @@ I'm damned or dmnd for short.
 - PHP
 
 💻 Environments I work on
-- Windows 10
+- Windows
 - Linux
 
 <!--

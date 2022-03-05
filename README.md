@@ -1,22 +1,35 @@
-### Hi there 👋
+## 👋 Hi there,
 
-I'm damned or dmnd for short.
+I'm damned or dmnd for short
 
-⚡ I'm CTF player with the `dcode-us` team (with @LukeGix)
+⚡ I'm [CTF player][ctf-profile-link] with the [dcode-us][ctf-team-link] team
 
 🌱 I'm studying security of computer systems and networks
 
 ✍ Languages I've worked with
+
 - C/C++
-- Python
 - C#
+- Python
 - Java
 - JavaScript
 - PHP
 
 💻 Environments I work on
-- Windows
+
 - Linux
+- Windows
+
+🔗 Other Links
+
+- [GitHub][github-profile-link]
+- [Twitter][twitter-profile-link]
+
+[ctf-profile-link]: https://ctftime.org/user/95139
+[ctf-team-link]: https://ctftime.org/team/138692
+[github-profile-link]: https://github.com/damned-me
+[twitter-profile-link]: https://twitter.com/damned_me_
+
 <!--
 **damned-me/damned-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
